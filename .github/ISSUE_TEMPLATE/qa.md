@@ -1,5 +1,5 @@
 ---
-name: QA
+name: QA (Quality Assurance)
 about: For QA on something specific or some big feature
 title: ""
 labels: "qa"
